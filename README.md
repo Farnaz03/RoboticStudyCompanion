@@ -11,9 +11,9 @@ Libraries + Dependencies:
 
 
 ### To Do
-+ x
-+ y
-+ z
+- [x]  x
+- [ ] y
+- [ ] z
 
 
 ##### Resources:
