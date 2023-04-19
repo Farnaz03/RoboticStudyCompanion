@@ -28,11 +28,11 @@ This license is often used for educational and artistic works, such as research 
 ### Citing
 If you use the design or code in your research, please use the following BibiTex entry 
 
-@article{bakshzorec2023rsc,
-  title={Robotic Study Companion},
-  author={Baksh, Farnaz and Zorec, Matevz},
-  journal={arXiv:},
-  year={2023}
+@article{bakshzorec2023rsc,  
+  title={Robotic Study Companion},  
+  author={Baksh, Farnaz and Zorec, Matevz},  
+  journal={arXiv:},  
+  year={2023}  
 }
 
 ##### Resources:
