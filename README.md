@@ -22,6 +22,8 @@ The Creative Commons Attribution-NonCommercial (CC BY-NC) license is a widely us
 This license is often used for educational and artistic works, such as research papers, images, and music.
 
 ### Contributors
+* Farnaz Baksh
+* Matevž Zorec
 
 ### Citing
 If you use the design or code in your research, please use the following BibiTex entry 
