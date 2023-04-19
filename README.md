@@ -29,10 +29,10 @@ This license is often used for educational and artistic works, such as research 
 If you use the design or code in your research, please use the following BibiTex entry 
 
 @article{bakshzorec2023rsc,  
-&nbsp; title={Robotic Study Companion},  
-&nbsp; author={Baksh, Farnaz and Zorec, Matevž},  
-&nbsp; journal={arXiv:},  
-&nbsp; year={2023}  
+&nbsp; &nbsp; title={Robotic Study Companion},  
+&nbsp; &nbsp; author={Baksh, Farnaz and Zorec, Matevž},  
+&nbsp; &nbsp; journal={arXiv:},  
+&nbsp; &nbsp; year={2023}  
 }
 
 ##### Resources:
