@@ -30,7 +30,7 @@ If you use the design or code in your research, please use the following BibiTex
 
 @article{bakshzorec2023rsc,  
   title={Robotic Study Companion},  
-  author={Baksh, Farnaz and Zorec, Matevz},  
+  author={Baksh, Farnaz and Zorec, Matevž},  
   journal={arXiv:},  
   year={2023}  
 }
