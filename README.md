@@ -19,7 +19,6 @@ Libraries + Dependencies:
 
 ### Open Source License  
 The Creative Commons Attribution-NonCommercial (CC BY-NC) license is a widely used open source license that allows others to use, distribute, and modify your work for non-commercial purposes, as long as they give you credit as the original author. 
-This license is often used for educational and artistic works, such as research papers, images, and music.
 
 ### Contributors
 * Farnaz Baksh
