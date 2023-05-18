@@ -28,7 +28,7 @@ The Creative Commons Attribution-NonCommercial (CC BY-NC) license is a widely us
 ### Citing
 If you use the design or code in your research, please use the following BibiTex entry 
 
-@article{bakshzorec2023rsc,  
+@article{baksh2023rsc,  
 &nbsp; &nbsp; title={Robotic Study Companion},  
 &nbsp; &nbsp; author={Baksh, Farnaz},  
 &nbsp; &nbsp; journal={arXiv:},  
