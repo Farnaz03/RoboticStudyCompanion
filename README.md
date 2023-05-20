@@ -25,9 +25,9 @@ Current Libraries + Dependencies:
 
 
 ### To Do
-- [x]  x
-- [ ] y
-- [ ] z
+- [ ]  try whisper or azure for natural voice
+- [ ] create and implement touch display menu
+- [ ] expand behavioural states
 
 ### Open Source License  
 The Creative Commons Attribution-NonCommercial (CC BY-NC) license is a widely used open source license that allows others to use, distribute, and modify your work for non-commercial purposes, as long as they give you credit as the original author. 
