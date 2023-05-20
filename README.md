@@ -13,7 +13,15 @@ Design + Code Repo for RSC (Robotic Study Companion)
 
 
 ## Software
-Libraries + Dependencies:
+##### Raspbian GNU/Linux / AIY system image  
+
+Current Libraries + Dependencies:
+* AIY API library
+* SpeechRecognition library version 3.9.0 
+* pyttsx3 library version 2.90
+* OpenAI Python Library version 0.27.4
+* adafruit-circuitpython-neopixel library version 6.3.8
+
 
 
 ### To Do
