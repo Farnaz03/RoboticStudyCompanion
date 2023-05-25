@@ -11,7 +11,7 @@ The RSC prototype is constructed using off-the-shelf components and utilised Ope
 To provide a comprehensive user experience, the RSC enables interaction through various modalities such as voice, gesture, tactile inputs, and incorporates visual, auditory, and motion indicators for enhanced expressiveness. It strikes a balance between cost and technical performance, making it affordable for educational institutions and students. 
 With its sleek design and friendly appearance, the RSC can serve as an inviting and approachable study companion, offering academic support to students on their learning journey.
 
-![Alt text](image link)
+![RSC_v4](./RSC_v4_prototype.PNG)
 
 ### Hardware 
 * RaspberryPi 4 Model B 4GB RAM + 32 GB SD Card
