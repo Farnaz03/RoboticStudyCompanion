@@ -13,7 +13,7 @@ With its sleek design and friendly appearance, the RSC can serve as an inviting 
 
 ![Alt text](image link)
 
-## Hardware 
+### Hardware 
 * RaspberryPi 4 Model B 4GB RAM + 32 GB SD Card
 * AIY Voice Bonnet version2 (microphone + speaker + LED Button)
 * Neopixel Ring 16 x 5050 RGB LED
@@ -22,7 +22,7 @@ With its sleek design and friendly appearance, the RSC can serve as an inviting 
 *  Logic Level Shifter 4-Channel, Bidirectional
 
 
-## Software
+### Software
 ##### Raspbian GNU/Linux / AIY system image  
 
 Current Libraries + Dependencies:
@@ -40,8 +40,8 @@ Current Libraries + Dependencies:
 - [ ] expand behavioural states
 
 ### Open Source License  
-The Creative Commons Attribution-NonCommercial (CC BY-NC) license is a widely used open source license that allows others to use, distribute, and modify your work for non-commercial purposes, as long as they give you credit as the original author. 
+The Creative Commons Attribution-NonCommercial (CC BY-NC) license is an open source license that allows others to use, distribute, and modify this project for non-commercial purposes, as long as they give credit to the original author. 
 
 
 ##### Resources:
-Github Syntax: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+xxx
