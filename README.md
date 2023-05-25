@@ -1,7 +1,17 @@
 # Robotic Study Companion
 Design + Code Repo for RSC (Robotic Study Companion)
 
-## Intro 
+## What is an RSC?
+A robotic study companion (RSC) is a type of social robot designed to interact with [university] students in a human-centric way and to operate in academic environments alongside them. RSCs can take on various forms, from humanoid to animal-like or even abstract, but they all share the goal of engaging students in an interpersonal manner. This involves communicating and coordinating their behaviour with students through various modalities, such as verbal, nonverbal, or affective means, with the aim of providing personalised support, feedback, and motivation for students to enhance their academic performance and learning outcomes.
+- Farnaz Baksh, 2023
+
+## Design & Develooment
+The RSC prototype is constructed using off-the-shelf components and utilised OpenAI's conversational API, which has proven its ability to simplify complex concepts and facilitate interactive conversations, effectively engaging university students in their studies.
+
+To provide a comprehensive user experience, the RSC enables interaction through various modalities such as voice, gesture, tactile inputs, and incorporates visual, auditory, and motion indicators for enhanced expressiveness. It strikes a balance between cost and technical performance, making it affordable for educational institutions and students. 
+With its sleek design and friendly appearance, the RSC can serve as an inviting and approachable study companion, offering academic support to students on their learning journey.
+
+![Alt text](image link)
 
 ## Hardware 
 * RaspberryPi 4 Model B 4GB RAM + 32 GB SD Card
