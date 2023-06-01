@@ -2,6 +2,8 @@
 A robotic study companion (RSC) is a type of social robot designed to interact with [university] students in a human-centric way and to operate in academic environments alongside them. RSCs can take on various forms, from humanoid to animal-like or even abstract, but they all share the goal of engaging students in an interpersonal manner. This involves communicating and coordinating their behaviour with students through various modalities, such as verbal, nonverbal, or affective means, with the aim of providing personalised support, feedback, and motivation for students to enhance their academic performance and learning outcomes.  
 ~_Farnaz Baksh, 2023_
 
+[Defense PPT](https://docs.google.com/presentation/d/1bBWDUIlPUooCJXDMhWjwdlbGxtRz02nj1TfSVBF5hqg/edit?usp=sharing)
+
 **Youtube playlist of [RSC demos](https://youtube.com/playlist?list=PL49qLAAzGgOxQGmKcBarU2cArTEF4M34z)**
 
 Answer this informal [RSC Survey](https://forms.gle/rxxPeKKdKfdqFwnz9)
