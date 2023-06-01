@@ -4,7 +4,7 @@ A robotic study companion (RSC) is a type of social robot designed to interact w
 
 **Youtube playlist of [RSC demos](https://youtube.com/playlist?list=PL49qLAAzGgOxQGmKcBarU2cArTEF4M34z)**
 
-Informal [RSC Survey](https://forms.gle/rxxPeKKdKfdqFwnz9)
+Answer this informal [RSC Survey](https://forms.gle/rxxPeKKdKfdqFwnz9)
 
 ## Design & Development
 The RSC prototype is constructed using off-the-shelf components and utilised OpenAI's conversational API, which has proven its ability to simplify complex concepts and facilitate interactive conversations. The RSC features a portable, friendly hourglass shape design, standing at 11cm tall and weighing ~374g. 
