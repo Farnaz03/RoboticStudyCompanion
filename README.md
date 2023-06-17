@@ -36,7 +36,7 @@ Current Libraries + Dependencies:
 
 
 ### To Do
-- [ ]  try whisper or azure for natural voice
+- [ ]  try whisper & other TTS for natural voice
 - [ ] create and implement touch display menu
 - [ ] expand behavioural states
 
