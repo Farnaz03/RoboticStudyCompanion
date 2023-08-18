@@ -4,6 +4,8 @@ A robotic study companion (RSC) is a type of social robot designed to interact w
 
 **Youtube playlist of [RSC demos](https://youtube.com/playlist?list=PL49qLAAzGgOxQGmKcBarU2cArTEF4M34z)**
 
+[Link to thesis presentation](https://docs.google.com/presentation/d/1bBWDUIlPUooCJXDMhWjwdlbGxtRz02nj1TfSVBF5hqg/edit?usp=sharing)
+
 Answer this informal [RSC Survey](https://forms.gle/rxxPeKKdKfdqFwnz9)
 
 ## Design & Development
