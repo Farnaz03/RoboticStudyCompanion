@@ -46,8 +46,4 @@ Current Libraries + Dependencies:
 - [ ] expand behavioural states
 
 ### Open Source License  
-The Creative Commons Attribution-NonCommercial (CC BY-NC) license is an open source license that allows others to use, distribute, and modify this project for non-commercial purposes, as long as they give credit to the original author. 
-
-
-##### Resources:
-xxx
+The Creative Commons Attribution-NonCommercial (CC BY-NC) license is an open-source license that allows others to use, distribute, and modify this project for non-commercial purposes as long as they give credit to the original author. 
