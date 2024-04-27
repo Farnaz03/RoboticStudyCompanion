@@ -1,1 +1,2 @@
-### Electronics Board info for RSC v1 (2023)
+# RSC ElectroCircuits
+Electronics Board info for RSC v1 (2023)
