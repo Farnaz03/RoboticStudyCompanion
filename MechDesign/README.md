@@ -1,5 +1,5 @@
 # RSC MechDesign
-CAD for RSC (Robotic Study Companion)  
+CAD for RSC (Robotic Study Companion) version 1 developed in 2023.
 
 Fusion360 archive file (assyv4 v67.f3z)  
 Along with step files of all peripherals 
