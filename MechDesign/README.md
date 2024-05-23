@@ -4,7 +4,7 @@ CAD for RSC (Robotic Study Companion) version 1 developed in 2023.
 Fusion360 archive file (assyv4 v67.f3z)  
 Along with step files of all peripherals 
 
-![](https://github.com/Farnaz03/RoboticStudyCompanion/tree/main/MechDesign/cad_imgs/assyv4.gif)
+![](https://github.com/Farnaz03/RoboticStudyCompanion/blob/main/MechDesign/cad_imgs/assyv4.gif)
 
 ## Design File Summary
 
